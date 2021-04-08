@@ -133,11 +133,10 @@ setInterval(() => {
   myEmit.emit("NJS-Emitter", allUsers);
 }, 10000);
 
-const port = 3210;
-const porte = 5000;
 
 
-app.listen(porte, () =>
+
+app.listen((process.env.PORT || 5000), () =>
   console.log(`Server running at http://localhost:${porte}`)
 );
 
