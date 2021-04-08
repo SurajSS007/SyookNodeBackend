@@ -22,6 +22,9 @@ const Person =mongoose.model("Person");
 const user = require('./routes/userRoute');  
 app.use(express.json());            // import  userRoute    
 app.use('/user',user);        //  setting router 
+app.get('/',(req,res)=>{
+  res.send("hello")
+});
 
 class myEvent extends events {}
 const myEmit = new myEvent();
