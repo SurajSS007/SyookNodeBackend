@@ -12,22 +12,22 @@
   },
   {
     name: "Ram",
-    origin: "Bengaluru",
+    origin: "Delhi",
     destination: "Mumbai",
   },
   {
     name: "Rahul",
     origin: "Bengaluru",
-    destination: "Mumbai",
+    destination: "Kashmir",
   },
   {
     name: "Hitesh",
-    origin: "Bengaluru",
+    origin: "Shimla",
     destination: "Mumbai",
   },
   {
     name: "Prem",
-    origin: "Bengaluru",
+    origin: "Chennai",
     destination: "Mumbai",
   },
   {
@@ -37,22 +37,22 @@
   },
   {
     name: "Sagar",
-    origin: "Bengaluru",
+    origin: "Noida",
     destination: "Mumbai",
   },
   {
     name: "Joe",
     origin: "Bengaluru",
-    destination: "Mumbai",
+    destination: "Hyderabad",
   },
   {
     name: "Suraj",
-    origin: "Bengaluru",
+    origin: "Sikkim",
     destination: "Mumbai",
   },
   {
     name: "Jim",
-    origin: "Bengaluru",
+    origin: "Pune",
     destination: "Mumbai",
   }
 ];
